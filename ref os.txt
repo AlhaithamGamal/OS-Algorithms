@@ -1,0 +1,3 @@
+http://www.cs.uofs.edu/~bi/2003f-html/cs352/syscalls-file.htm
+http://querieslinux.blogspot.nl/2009/03/introduction-to-system-calls-io-system.html
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa364232(v=vs.85).aspx
